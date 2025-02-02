@@ -1,4 +1,6 @@
-## Hi there 👋
+
+Hi👋, my name is Gilson, I'm 16 years old. I'm currently studying Python and some extra tools, and I'm also studying SQL for databases.
+- ⚡ Fun fact: studying programming is not easy at all
 
 <!--
 **AGOCSAFAZE/AGOCSAFAZE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
