@@ -1,8 +1,8 @@
 #  Olá! Eu sou o **AGOCSAFAZE**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00E7FF&center=true&vCenter=true&random=false&width=850&lines=Dev.+apaixonado+por+inovação;Code+com+paix%C3%A3o;GitHub+como+portf%C3%B3lio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00E7FF&=true&v=true&random=false&width=850&lines=Dev.+apaixonado+por+inovação;Code+com+paix%C3%A3o;GitHub+como+portf%C3%B3lio)](https://git.io/typing-svg)
 
-<p align="center">
+<p align="">
   <a href="https://komarev.com/ghpvc/?username=AGOCSAFAZE&label=Visitantes&style=for-the-badge"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=AGOCSAFAZE&label=Visitantes&style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/AGOCSAFAZE/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:seu_email@exemplo.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,18 +12,18 @@
 
 ---
 ##  Ferramentas & Tech Stack
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,git,github,linux&perline=8" />
 </p>
 
 ---
 
 ##  Estátisticas e Contribuições
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=AGOCSAFAZE&show_icons=true&theme=transparent&hide=stars" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGOCSAFAZE&layout=compact&theme=transparent" height="170"/>
 </p>
-<p align="center">
+<p align="">
   <img src="https://streak-stats.demolab.com?user=AGOCSAFAZE&theme=transparent&date_format=j%20M%5B%20Y%5D" height="170"/>
 </p>
 
@@ -37,7 +37,7 @@
 ---
 
 ##  Projetos em Destaque
-<p align="center">
+<p align="">
   <a href="https://github.com/AGOCSAFAZE/advanced_registration_system_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AGOCSAFAZE&repo=Repo1&theme=transparent"/></a>
 </p>
 
