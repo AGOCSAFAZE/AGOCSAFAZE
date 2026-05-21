@@ -15,25 +15,34 @@ Python - Django - SQL - ESP32 - APIs - Automation - IoT Systems
 ---
 
 ## Technologies and Tools
-
+<div align="left">
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,nodejs,react,mysql,git,github,linux,vscode&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,nodejs,react,mysql,git,github,linux,vscode&theme=dark&perline=" />
 </p>
 
 ---
 
 ## Technical Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Backend-Development-830000?style=for-the-badge&logo=serverfault&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Programming-830000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-Web_Framework-830000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Database-830000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-IoT-830000?style=for-the-badge&logo=esphome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-System-830000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version_Control-830000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer-Networks-830000?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+<div align="left">
+
+<img src="https://img.shields.io/badge/Backend-Development-830000?style=for-the-badge&logo=serverfault&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-Programming-830000?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Django-Web_Framework-830000?style=for-the-badge&logo=django&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SQL-Database-830000?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/ESP32-IoT-830000?style=for-the-badge&logo=esphome&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Linux-System-830000?style=for-the-badge&logo=linux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-Version_Control-830000?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Computer-Networks-830000?style=for-the-badge&logo=cisco&logoColor=white" />
+
+</div>
 
 ---
 
