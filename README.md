@@ -1,21 +1,16 @@
-
 # Hello! I'm Gilson
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=830000&width=600&lines=ADS+Student+and+IT+Technician;Backend+Developer+and+IoT+Enthusiast;Python+%7C+Django+%7C+ESP32+%7C+SQL)](https://git.io/typing-svg)
 
 ---
+
 ## About Me
+
 Systems Analysis and Development student focused on backend development, automation, IoT, and infrastructure.
 
 Currently studying Technical Support and IT Maintenance, with practical experience in:
 
-- Python
-- Django
-- SQL
-- ESP32
-- APIs
-- Automation
-- IoT Systems
+Python - Django - SQL - ESP32 - APIs - Automation - IoT Systems
 
 ---
 
@@ -34,9 +29,6 @@ Currently studying Technical Support and IT Maintenance, with practical experien
   <img src="https://img.shields.io/badge/Python-Programming-830000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-Web_Framework-830000?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-Database-830000?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/ESP32-IoT-830000?style=for-the-badge&logo=esphome&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-System-830000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-Version_Control-830000?style=for-the-badge&logo=git&logoColor=white" />
@@ -71,16 +63,19 @@ Focused on improving my skills in:
 Future Computer Engineering student aiming to build scalable and high-impact solutions.
 
 ---
-
 ## GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AGOCSAFAZE&show_icons=true&theme=dark&bg_color=000000&title_color=830000&icon_color=830000&text_color=ffffff&border_color=830000" />
+<p>
+<div align="">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AGOCSAFAZE&show_icons=true&bg_color=000000&title_color=830000&text_color=ffffff&icon_color=830000&border_color=830000" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGOCSAFAZE&layout=compact&theme=dark&bg_color=000000&title_color=830000&text_color=ffffff&border_color=830000" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AGOCSAFAZE&layout=compact&bg_color=000000&title_color=830000&text_color=ffffff&border_color=830000" />
+</div>
 </p>
+
 ---
-## Contribution Streak
+
+<h2 align="left">Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AGOCSAFAZE&theme=dark&background=000000&ring=830000&fire=830000&currStreakLabel=ffffff&border=830000"/>
+  <img src="https://streak-stats.demolab.com?user=AGOCSAFAZE&&theme=dark&background=000000&ring=830000&fire=830000&currStreakLabel=ffffff&border=830000"/>
 </p>
