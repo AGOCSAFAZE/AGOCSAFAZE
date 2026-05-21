@@ -1,13 +1,13 @@
+
 # Hello! I'm Gilson
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=830000&width=600&lines=ADS+Student+and+IT+Technician;Backend+Developer+and+IoT+Enthusiast;Python+%7C+Django+%7C+ESP32+%7C+SQL;Always+learning+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=830000&width=600&lines=ADS+Student+and+IT+Technician;Backend+Developer+and+IoT+Enthusiast;Python+%7C+Django+%7C+ESP32+%7C+SQL)](https://git.io/typing-svg)
 
 ---
 ## About Me
+Systems Analysis and Development student focused on backend development, automation, IoT, and infrastructure.
 
-I am a student of Systems Analysis and Development and also currently studying Technical Support and IT Maintenance.
-
-I have practical experience developing projects using:
+Currently studying Technical Support and IT Maintenance, with practical experience in:
 
 - Python
 - Django
@@ -15,82 +15,64 @@ I have practical experience developing projects using:
 - ESP32
 - APIs
 - Automation
-- Internet of Things (IoT)
-
-During my technical education, I developed knowledge in:
-
-- Computer maintenance and diagnostics
-- Computer networks
-- Infrastructure and hardware
-- Operating systems
-- Technical support
-- Computational logic
-
-Currently, I am improving my skills in backend development, databases, automation, and hardware/software integration.
+- IoT Systems
 
 ---
 
 ## Technologies and Tools
 
-<img src="https://skillicons.dev/icons?i=python,django,js,ts,nodejs,react,mysql,git,github,linux,vscode&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,nodejs,react,mysql,git,github,linux,vscode&theme=dark&perline=6" />
+</p>
 
 ---
 
 ## Technical Skills
 
-<img src="https://img.shields.io/badge/Backend-Development-830000?style=for-the-badge&logo=serverfault&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Backend-Development-830000?style=for-the-badge&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Programming-830000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Web_Framework-830000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Database-830000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-Programming-830000?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Django-Web_Framework-830000?style=for-the-badge&logo=django&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SQL-Database-830000?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/ESP32-IoT-830000?style=for-the-badge&logo=esphome&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Hardware-Infrastructure-830000?style=for-the-badge&logo=pcgamingwiki&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Computer-Networks-830000?style=for-the-badge&logo=cisco&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Linux-System-830000?style=for-the-badge&logo=linux&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-Version_Control-830000?style=for-the-badge&logo=git&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/ESP32-IoT-830000?style=for-the-badge&logo=esphome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-System-830000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-830000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer-Networks-830000?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 ---
 
-# Featured Project
+## Featured Project
 
-## Water Consumption Monitoring System
+### Water Consumption Monitoring System
 
-Project developed using ESP32 + YF-S201 sensor for real-time water flow monitoring.
-
-### Features
+ESP32 + YF-S201 project for real-time water monitoring.
 
 - Real-time monitoring
-- Blynk integration
 - Python backend
 - SQL database
+- Blynk integration
 - Monthly consumption dashboard
-- Communication between ESP32 and server
 
 ---
 
-# Goals
+## Goals
 
-Currently, I am constantly improving my knowledge in:
+Focused on improving my skills in:
 
-- Software Engineering
-- Embedded Systems
-- Infrastructure and Networks
-- Computer Architecture
 - Backend Development
-- Scalable solutions and automation
+- Embedded Systems
+- Software Engineering
+- Infrastructure and Networks
 
-My future goal is to study Computer Engineering and work on high-impact technology projects.
+Future Computer Engineering student aiming to build scalable and high-impact solutions.
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AGOCSAFAZE&show_icons=true&theme=dark&bg_color=000000&title_color=830000&icon_color=830000&text_color=ffffff&border_color=830000"/>
@@ -100,7 +82,7 @@ My future goal is to study Computer Engineering and work on high-impact technolo
 
 ---
 
-# Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AGOCSAFAZE&theme=dark&background=000000&ring=830000&fire=830000&currStreakLabel=ffffff&border=830000"/>
