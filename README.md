@@ -73,15 +73,12 @@ Future Computer Engineering student aiming to build scalable and high-impact sol
 ---
 
 ## GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AGOCSAFAZE&show_icons=true&theme=dark&bg_color=000000&title_color=830000&icon_color=830000&text_color=ffffff&border_color=830000"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGOCSAFAZE&layout=compact&theme=dark&bg_color=000000&title_color=830000&text_color=ffffff&border_color=830000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AGOCSAFAZE&show_icons=true&theme=dark&bg_color=000000&title_color=830000&icon_color=830000&text_color=ffffff&border_color=830000" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGOCSAFAZE&layout=compact&theme=dark&bg_color=000000&title_color=830000&text_color=ffffff&border_color=830000" />
 </p>
-
 ---
-
 ## Contribution Streak
 
 <p align="center">
